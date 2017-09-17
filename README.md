@@ -1,2 +1,2 @@
 # NightOwl
-Night Owl Minecraft mod.
+Sleep during the day like a true night owl.
