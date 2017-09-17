@@ -1,0 +1,21 @@
+{
+  "modListVersion": 1,
+  "modList": [{
+    "modid": "nightowl",
+    "name": "Night Owl",
+    "description": "Sleep during the day like a true night owl.",
+    "version": "1.0",
+    "mcversion": "1.12.1",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "CptWetWaffle" ],
+    "credits": "Created by CptWetWaffle",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": true
+  }]
+}
